@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://huanglongjie1234.github.io</id>
+    <id>https://huanglongjie20201224.github.io</id>
     <title>Gridea</title>
-    <updated>2020-12-24T07:04:40.223Z</updated>
+    <updated>2020-12-24T07:29:06.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://huanglongjie1234.github.io"/>
-    <link rel="self" href="https://huanglongjie1234.github.io/atom.xml"/>
+    <link rel="alternate" href="https://huanglongjie20201224.github.io"/>
+    <link rel="self" href="https://huanglongjie20201224.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://huanglongjie1234.github.io/images/avatar.png</logo>
-    <icon>https://huanglongjie1234.github.io/favicon.ico</icon>
+    <logo>https://huanglongjie20201224.github.io/images/avatar.png</logo>
+    <icon>https://huanglongjie20201224.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[计算机网络大作业]]></title>
-        <id>https://huanglongjie1234.github.io/post/ji-suan-ji-wang-luo-da-zuo-ye/</id>
-        <link href="https://huanglongjie1234.github.io/post/ji-suan-ji-wang-luo-da-zuo-ye/">
+        <id>https://huanglongjie20201224.github.io/post/ji-suan-ji-wang-luo-da-zuo-ye/</id>
+        <link href="https://huanglongjie20201224.github.io/post/ji-suan-ji-wang-luo-da-zuo-ye/">
         </link>
         <updated>2020-12-24T06:28:22.000Z</updated>
         <content type="html"><![CDATA[<p>内容：根据计算机网络在现实生活中的不同应用场景，设计相应的网络规划方案。设计题目、网络功能和参数可由老师给定的题目中选择，也可由设计小组自行确定。<br>
@@ -32,8 +32,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://huanglongjie1234.github.io/post/hello-gridea/</id>
-        <link href="https://huanglongjie1234.github.io/post/hello-gridea/">
+        <id>https://huanglongjie20201224.github.io/post/hello-gridea/</id>
+        <link href="https://huanglongjie20201224.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
